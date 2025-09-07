@@ -1,4 +1,4 @@
-# Para que Serve este Documento?
+# PARA QUE SERVE ESTE DOCUMENTO?
 
 Este documento tem como objetivo listar e definir quais responsabilidades o consumidor tem a partir do momento que adquiri algum produto da Microsoft.
 
